@@ -1,4 +1,4 @@
-package com.bharaththippireddy.trainings.jaxrs;
+package com.akash.trainings.jaxrs;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
