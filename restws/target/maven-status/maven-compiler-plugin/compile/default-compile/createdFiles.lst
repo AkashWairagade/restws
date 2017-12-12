@@ -1,0 +1,5 @@
+com\akash\trainings\jaxrs\Medicine.class
+com\akash\trainings\jaxrs\Prescription.class
+com\akash\trainings\jaxrs\Patient.class
+com\akash\trainings\jaxrs\PatientService.class
+com\akash\trainings\jaxrs\PatientServiceImpl.class
